@@ -2,7 +2,6 @@
     -fx-background-color: #c8edff;
 }
 .button{
-    -fx-border-left: 2px white;
     -fx-background-color: #66d4ff;
     -fx-text-fill: white;
 }
